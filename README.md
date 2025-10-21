@@ -184,6 +184,7 @@ npm run dev
 php artisan migrate
 php artisan key:generate
 
+Note:  for databse I also add a recycle.sql file for quick viewing or use that sql file for creating, use for ease.
 
 
 
